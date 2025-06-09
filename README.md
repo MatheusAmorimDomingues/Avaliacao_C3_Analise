@@ -1,6 +1,5 @@
-# Avaliação_C3 - Hackathon de Análise de Dados e Aprendizado de Máquina
-
-## 📌 Descrição do Projeto
+# Avaliação_C3 - Análise de Dados 
+# Descrição do Projeto
 
 Este projeto tem como objetivo explorar um conjunto de dados públicos sobre preços de casas nos Estados Unidos, utilizando diversas técnicas de análise de dados e aprendizado de máquina. O fluxo de trabalho envolve:
 
@@ -13,7 +12,7 @@ Este projeto tem como objetivo explorar um conjunto de dados públicos sobre pre
 
 Todas as etapas foram desenvolvidas em um Jupyter Notebook, com foco em interpretabilidade, reprodutibilidade e clareza na apresentação dos resultados.
 
-## 🚀 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python 3.x  
 - Jupyter Notebook  
@@ -25,7 +24,7 @@ Todas as etapas foram desenvolvidas em um Jupyter Notebook, com foco em interpre
 - xgboost  
 - mlxtend  
 
-## 🧠 Modelos Utilizados
+# Modelos Utilizados
 
 - Regressão Linear
 - Regressão Logística
@@ -38,7 +37,7 @@ Todas as etapas foram desenvolvidas em um Jupyter Notebook, com foco em interpre
 - Detecção de outliers (Local Outlier Factor)
 - Regras de associação (Algoritmo Apriori)
 
-## 🗂️ Estrutura do Projeto
+# Estrutura do Projeto
 
 .
 ├── Trabalho_C3_Analise.ipynb        # Notebook principal do projeto
@@ -46,7 +45,7 @@ Todas as etapas foram desenvolvidas em um Jupyter Notebook, com foco em interpre
 ├── .gitignore                       # Arquivo para ignorar arquivos no Git
 └── README.md                        # Descrição do projeto
 
-## 📦 Instalação
+# Instalação
 
 Para executar este projeto localmente, siga os passos abaixo:
 
@@ -62,24 +61,22 @@ Depois, execute o notebook:
 jupyter notebook Trabalho_C3_Analise.ipynb
 ```
 
-## 👥 Autores
+# Grupo
 
 - Diogo Rocha da Silva Pelanda
 - Matheus Amorim Domingues
 
-## 🎓 Instituição
+# Instituição
 
 FAESA | Centro Universitário – Vitória  
 Curso: Ciência da Computação  
 Disciplina: Análise de Dados Aplicada à Computação  
-Professor: Prof. M.Sc. Howard Roatti  
+Professor: Prof. Howard Roatti  
 Ano: 2025
 
-## 📌 Dataset
+# Dataset
 
 O conjunto de dados utilizado está disponível publicamente no Kaggle:  
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
-## 📃 Licença
 
-Projeto com finalidade exclusivamente educacional.
